@@ -13,5 +13,19 @@
   "scripts": {
     "test": "mocha",
     "coverage": "nyc --reporter=text mocha"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonela-Johannes/bootcamp-terminal-test.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Yonela-Johannes/bootcamp-terminal-test/issues"
+  },
+  "homepage": "https://github.com/Yonela-Johannes/bootcamp-terminal-test#readme",
+  "description": ""
 }
