@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-terminal-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc --reporter=text mocha"
+  }
+}
